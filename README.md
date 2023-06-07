@@ -1,7 +1,6 @@
 # basicwebsite
 Created using Html and Css with JS.
 
+A responsive website for practice 
 
 
-
-i'am a front end devloper and a linux admininstrator.
